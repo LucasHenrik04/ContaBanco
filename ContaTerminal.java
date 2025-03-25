@@ -16,10 +16,10 @@ public class ContaTerminal {
         System.out.println("Digite seu nome: ");
         String nome = scanner.nextLine();
 
-        System.out.println("Digite o número de agência desejado: ");
+        System.out.println("Digite o número da sua agência: ");
         String agencia = scanner.nextLine();
 
-        System.out.println("Digite o numero da sua conta desejado: ");
+        System.out.println("Digite o numero da sua conta: ");
         int numeroConta = scanner.nextInt();
 
         System.out.println("Digite o saldo que você terá no banco: ");
